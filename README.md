@@ -24,3 +24,7 @@ To establish top learners for each course type \<course name>
 
 ![statistics](https://github.com/PCiesielczyk/LearningProgressTracker/blob/master/Learning%20Progress%20Tracker/task/examples/statistics.jpg)
 
+Finally, the `notify` command will print a list of messages to students that got required amount of points to finish a course.
+
+![notify](https://github.com/PCiesielczyk/LearningProgressTracker/blob/master/Learning%20Progress%20Tracker/task/examples/notify.jpg)
+

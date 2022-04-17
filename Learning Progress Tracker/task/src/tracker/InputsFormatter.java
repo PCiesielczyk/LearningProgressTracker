@@ -8,7 +8,7 @@ public class InputsFormatter {
 
     public static ArrayList<Student> studentsList = new ArrayList<>();
 
-    static int initialId = 0;
+    static int initialId = 10000;
 
     public static boolean validFirstName(String studentName) {
 

@@ -7,10 +7,10 @@ import static tracker.InputCases.coursesList;
 
 public class Main {
 
-    public static int JAVA_POINTS_TO_COMPLETION = 600;
-    public static int DSA_POINTS_TO_COMPLETION = 400;
-    public static int DB_POINTS_TO_COMPLETION = 480;
-    public static int SPRING_POINTS_TO_COMPLETION = 550;
+    public static final int JAVA_POINTS_TO_COMPLETION = 600;
+    public static final int DSA_POINTS_TO_COMPLETION = 400;
+    public static final int DB_POINTS_TO_COMPLETION = 480;
+    public static final int SPRING_POINTS_TO_COMPLETION = 550;
 
     public static void main(String[] args) {
 
